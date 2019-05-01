@@ -54021,7 +54021,7 @@ arguments[4][262][0].apply(exports,arguments)
 },{}],320:[function(require,module,exports){
 module.exports={
   "name": "jcore-lib",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -54049,7 +54049,7 @@ module.exports={
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sn-ntu/jcore-lib.git"
+    "url": "https://github.com/jemcashproject/jcore-lib.git"
   },
   "browser": {
     "request": "browser-request"
@@ -54060,7 +54060,7 @@ module.exports={
     "buffer-compare": "=1.1.1",
     "elliptic": "=6.4.0",
     "inherits": "=2.0.1",
-    "lodash": "=4.17.4"
+    "lodash": ">=4.17.11"
   },
   "devDependencies": {
     "bitcore-build": "https://github.com/bitpay/bitcore-build.git#d4e8b2b2f1e2c065c3a807dcb6a6250f61d67ab3",
